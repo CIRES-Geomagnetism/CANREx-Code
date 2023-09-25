@@ -31,5 +31,5 @@ To run this code, you must run this python code in the same directory as a csv f
 
 NOTES:
 
-    This code does not currently run if the input coordinates are not longitude and latitude
-    As the code does not automatically calculate the projected grid bounds, you will have to do this yourself. We opened up our data in Oasis Montaj, and projected the data using their tool to find the grid dimensions of the data and used those numbers in our code, for example.
+* This code does not currently run if the input coordinates are not longitude and latitude
+* As the code does not automatically calculate the projected grid bounds, you will have to do this yourself. We opened up our data in Oasis Montaj, and projected the data using their tool to find the grid dimensions of the data and used those numbers in our code, for example.

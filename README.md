@@ -21,7 +21,10 @@ This software is being shared for academic use only.
 
 To run this code, you must run this python code in the same directory as a csv file that contains your data in the following 4 columns:
 
-"X": Latitude "Y": Longitude "Z": Residual Magnetic Anomaly Value "uncertainty": Uncertainty/error in Z
+"X": Latitude 
+"Y": Longitude 
+"Z": Residual Magnetic Anomaly Value 
+"uncertainty": Uncertainty/error in Z
 
     How to run the code:
     1. Create csv, ensure input coordinates are in lat/lon (epsg: 4326)

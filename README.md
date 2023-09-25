@@ -23,10 +23,11 @@ To run this code, you must run this python code in the same directory as a csv f
 
 "X": Latitude "Y": Longitude "Z": Residual Magnetic Anomaly Value "uncertainty": Uncertainty/error in Z
 
-    Create csv, ensure input coordinates are in lat/lon (epsg: 4326)
-    Set output coordinste projection desired (we used UTM Zone 11 North, epsg: 32611)
-    Set your desired grid cellsize (we used 4000, the same as EMAG2v3 cellsize of 2 arc-minutes)
-    Enter the projected grid bounds
+    How to run the code:
+    1. Create csv, ensure input coordinates are in lat/lon (epsg: 4326)
+    2. Set output coordinste projection desired (we used UTM Zone 11 North, epsg: 32611)
+    3. Set your desired grid cellsize (we used 4000, the same as EMAG2v3 cellsize of 2 arc-minutes)
+    4. Enter the projected grid bounds
 
 NOTES:
 

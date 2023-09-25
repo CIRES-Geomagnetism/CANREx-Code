@@ -1,7 +1,7 @@
 # CANREx-Code
 Code used in the Magnetic Anomaly Grid and Associated Uncertainty from Marine Trackline Data: The Caribbean Alternative Navigation Reference Experiment (CANREx) paper
 
-This code was written by Aamna Sirohey and is a custom built python code that was used for calculation of cell by cell statistics using the formulas given in the following paper that is set to be published in AGU Earth and Space:
+This code was written by Aamna Sirohey and is a custom built python code that was used for calculation of cell by cell statistics using the formulas given in the following paper that is set to be published in AGU Earth and Space Science:
 
 ***
 Magnetic Anomaly Grid and Associated Uncertainty from Marine Trackline Data: The Caribbean Alternative Navigation Reference Experiment (CANREx)
